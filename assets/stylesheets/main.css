@@ -1,0 +1,33 @@
+/*
+==================
+MAIN PAGE SPACING
+==================
+*/
+
+.grid{ 
+width: 960px;
+height: 600px;
+margin: 0 auto;}
+
+
+/*
+==================
+TOP BAR
+==================
+*/
+.topbar{
+  width: 100%;
+  border-bottom: 1px solid black;
+}
+
+.topbar img{
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.topbar div{
+    display: inline-block;
+    vertical-align: center;
+}
