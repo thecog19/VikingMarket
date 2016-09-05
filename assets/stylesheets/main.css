@@ -65,7 +65,7 @@ MAIN PAGE SPACING
 */
 
 .grid{ 
-width: 960px;
+width: 100%;
 height: 600px;
 margin: 0 auto;}
 
@@ -118,4 +118,13 @@ BACKGROUND IMAGE
 .background img{
   width: 100%
 
+}
+
+.undership{
+  text-align: center;
+  background-color: red;
+  color:blue;
+  position: relative;
+  top: -50px;
+  height: 100px;
 }
