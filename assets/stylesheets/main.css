@@ -18,6 +18,7 @@ TOP BAR
 .topbar{
   width: 100%;
   border-bottom: 1px solid black;
+  height: 40px
 }
 
 .topbar img{
@@ -30,4 +31,13 @@ TOP BAR
 .topbar div{
     display: inline-block;
     vertical-align: center;
+}
+
+.topbar .right{
+  float: right;
+}
+
+.topbar .left{
+  float: left;
+  line-height: 40px;
 }
