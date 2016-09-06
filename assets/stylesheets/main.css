@@ -229,3 +229,25 @@ PAGE BAR
 CONTACT US SECTION
 ==================
 */
+
+footer{
+  text-align: center;
+  border-top: 1px solid black;
+  color: white;
+  background-color: black;
+  padding-bottom: 50px;
+}
+
+footer h2{
+  color: orange;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-weight: 800px
+}
+
+footer img{
+  width: 30px;
+  display: inline-block;
+  vertical-align: middle;
+}
