@@ -65,7 +65,7 @@ MAIN PAGE SPACING
 */
 
 .grid{ 
-width: 100%;
+width: 1200px;
 height: 600px;
 margin: 0 auto;}
 
@@ -109,6 +109,11 @@ TOP BAR
   line-height: 40px;
 }
 
+.topbar a{
+  text-decoration: none;
+  color: black;
+}
+
 /*
 ==================
 BACKGROUND IMAGE
@@ -116,15 +121,53 @@ BACKGROUND IMAGE
 */
 
 .background img{
-  width: 100%
-
+  width: 100%;
+  align-self: center;
 }
 
 .undership{
   text-align: center;
-  background-color: red;
-  color:blue;
+  line-height: 120px;
+  background-color: black;
+  color:yellow;
   position: relative;
-  top: -50px;
-  height: 100px;
+  top: -120px;
+  height: 120px;
+  font-size: 40px;
 }
+
+.subundership{
+  text-align: center;
+  line-height: 40px;
+  background-color: white;
+  color:black;
+  height: 40px;
+  position: relative;
+  top: -120px;
+  font-size: 16px;
+  border: 1px solid black;
+}
+
+/*
+==================
+HOLDER FRAMES FOR ITEMS
+==================
+*/
+
+/*
+==================
+FRAME DISPLAY
+==================
+*/
+
+/*
+==================
+PAGE BAR
+==================
+*/
+
+/*
+==================
+CONTACT US SECTION
+==================
+*/
