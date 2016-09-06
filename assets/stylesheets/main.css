@@ -197,7 +197,7 @@ FRAME DISPLAY
 */
 
 .frame{
-  width: 1000px;
+  width: 920px;
   margin: 0 auto;}
 
 .separator{
@@ -209,6 +209,20 @@ FRAME DISPLAY
 PAGE BAR
 ==================
 */
+
+.pages{
+  width: 100%;
+  height: 45px;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 26px;
+  letter-spacing: 3px;
+
+}
+
+.inline{
+  display: inline-block;
+}
 
 /*
 ==================
